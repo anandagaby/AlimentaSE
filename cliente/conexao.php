@@ -1,7 +1,7 @@
 <?php
 $usuario = 'root';
 $senha = ''; 
-$databse = 'cantina';
+$database = 'cantina';
 $host = 'localhost:3406';
 
 $mysqli = new mysqli($host, $usuario, $senha, $database);
@@ -11,3 +11,4 @@ if ($mysqli->connect_error) {
 }
 
 ?>
+
