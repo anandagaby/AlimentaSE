@@ -1,0 +1,19 @@
+Array
+(
+    [id_cliente] => 16
+    [nome_cliente] => Anna Julia Soares
+    [carrinho] => Array
+        (
+            [15] => Array
+                (
+                )
+
+            [16] => Array
+                (
+                )
+
+        )
+
+    [id] => 4
+    [nome] => Alice Silva
+)
